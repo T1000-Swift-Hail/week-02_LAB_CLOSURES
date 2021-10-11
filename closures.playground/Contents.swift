@@ -9,4 +9,8 @@ let sortedAmount = exportsAmount.sorted(by: compareAscending)
 print(sortedAmount)
 
 
-
+let maxedAmount = exportsAmount.max(by: {x , y in
+    x < y
+} )
+print(maxedAmount ?? 0)
+    
