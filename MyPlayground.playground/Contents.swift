@@ -7,3 +7,7 @@ func country(i: Int, j: Int) -> Bool {
 }
 let sortedexportsAmount = exportsAmount.sorted(by: country)
 print(sortedexportsAmount)
+print("〰️")
+
+var exportsAmountMax = exportsAmount.max(by: {i,j in i < j})
+print(exportsAmountMax!)
