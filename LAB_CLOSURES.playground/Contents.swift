@@ -10,3 +10,4 @@ print(exportsAmount2)
 let TopexportsAmount = exportsAmount.max()
 print("max value from the exportsAmount")
 print(TopexportsAmount ?? 1)
+
