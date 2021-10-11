@@ -4,7 +4,8 @@
 ### Using a closure and the Array method sorted(by:), sort the following array from biggest to lowest 
 
 - Array exportsAmount : 4566, 231, 8739, 2476, 6529, 1343 
-- print the sorted array.
+- Sort the array exportsAmount from biggest to lowest
+- print the sorted array
 
 
 ## Bonus
